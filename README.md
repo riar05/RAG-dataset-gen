@@ -3,6 +3,9 @@ Contains the notebooks `Prompting.ipynb` `RAG.ipynb` used for creating datasets.
 The test sets are `test_100_metal_gemma2_9B.xlsx` and `test_100_metal_llama3_8B.xlsx`.\
 Final dataset is `final_extracted_1611.xlsx`
 
+## Preprint
+The paper is available here [ChemrXiV](https://chemrxiv.org/engage/chemrxiv/article-details/673c541a7be152b1d0981fd7).
+
 
 ## RAG
 Open `RAG.ipynb` in Google Colab.
