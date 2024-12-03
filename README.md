@@ -4,7 +4,7 @@ The test sets are `test_100_metal_gemma2_9B.xlsx` and `test_100_metal_llama3_8B.
 Final dataset is `final_extracted_1611.xlsx`
 
 ## Preprint
-The paper is available here [ChemrXiV](https://chemrxiv.org/engage/chemrxiv/article-details/673c541a7be152b1d0981fd7).
+The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/673c541a7be152b1d0981fd7).
 
 
 ## RAG
