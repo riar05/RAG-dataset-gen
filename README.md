@@ -9,7 +9,7 @@ The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/arti
 
 ## RAG
 Open `RAG_new.ipynb` in Google Colab.
-<a target="_blank" href="https://colab.research.google.com/github/catastropiyush/RAG-dataset-gen/blob/main/RAG_new.ipynb">
+<a target="_blank" href="https://colab.research.google.com/">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>\
 Connect to T4 GPU.\
