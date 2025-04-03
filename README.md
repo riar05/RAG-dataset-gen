@@ -3,8 +3,10 @@ Contains the notebooks `Prompting.ipynb` `RAG_new.ipynb` used for creating datas
 The test sets are `test_metal_hydride_250_gemma2_9B.xlsx` and `test_metal_hydride_250_llama3_8B.xlsx`.\
 Final dataset is `final_extracted_1611.xlsx`
 
+![dataset](https://github.com/catastropiyush/RAG-dataset-gen/blob/main/dataset.png)
+
 ## Preprint
-The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/673c541a7be152b1d0981fd7).
+The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67e277f06dde43c9081f4b38).
 
 
 ## RAG
