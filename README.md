@@ -4,6 +4,8 @@ The test sets are `test_metal_hydride_250_gemma2_9B.xlsx` and `test_metal_hydrid
 Final dataset is `final_extracted_1611.xlsx`
 
 ![dataset](https://github.com/catastropiyush/RAG-dataset-gen/blob/main/dataset.png)
+A subset of the generated dataset using this framework showing hydrogen storage properties of various alloys and compounds
+extracted from the paper’s abstracts.
 
 ## Preprint
 The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67e277f06dde43c9081f4b38).
