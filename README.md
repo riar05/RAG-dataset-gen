@@ -90,6 +90,5 @@ Follow the notebook to extract the specified data.
 We used some of the alloys extracted from the dataset to see whether they can be used for ML models.
 For this purpose we used HYST [Paper](https://www.sciencedirect.com/science/article/pii/S0360319923051224)
 The predictions of the models are provided in `Dataset_testing_HYST.csv`
-![dataset](https://github.com/catastropiyush/RAG-dataset-gen/blob/main/dataset.png)
-
+![dataset](https://github.com/catastropiyush/RAG-dataset-gen/blob/main/ML_predict_.png)
 
