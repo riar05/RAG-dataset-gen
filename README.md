@@ -84,3 +84,12 @@ Load the file containing the abstracts.
 selected_df = pd.read_csv("selected_df.xls")
 ```
 Follow the notebook to extract the specified data.
+
+
+## Using the created dataset on ML models
+We used some of the alloys extracted from the dataset to see whether they can be used for ML models.
+For this purpose we used HYST [Paper](https://www.sciencedirect.com/science/article/pii/S0360319923051224)
+The predictions of the models are provided in `Dataset_testing_HYST.csv`
+![dataset](https://github.com/catastropiyush/RAG-dataset-gen/blob/main/dataset.png)
+
+
