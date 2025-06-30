@@ -8,7 +8,7 @@ A subset of the generated dataset using this framework showing hydrogen storage 
 extracted from the paper’s abstracts.
 
 ## Preprint
-The paper is available here [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67e277f06dde43c9081f4b38).
+The paper is available here [link](https://iopscience.iop.org/article/10.1088/2515-7639/ade1fa).
 
 
 ## RAG
